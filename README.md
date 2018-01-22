@@ -1,7 +1,7 @@
 # TextTranslatorDemo
 Client-side: HTML, CSS, JavaScript, jQuery
 
-Server-side: Node.js
+Server-side: Node.js, Express
 
 Demo APP for translating text to another language
 

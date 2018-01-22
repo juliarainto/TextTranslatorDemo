@@ -1,0 +1,22 @@
+{
+  "name": "translate-backend",
+  "version": "0.1.0",
+  "private": false,
+  "license": "GPL-3.0",
+  "description": "",
+  "author": "Julia Rainto",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}
